@@ -64,7 +64,7 @@
 
 Через 50 144 блоков или примерно в конце мая 2020 года вознаграждение будет снижено до 6,25 биткоинов за блок, что приведет к уменьшению годового потока до приблизительно 1,8% от запаса. Десять лет спустя, после еще двух халвингов, будет добыто более 99% всех биткоинов, и будет производиться менее 1 биткоина за блок. Вы можете следить за ходом уменьшения вознаграждения за блок на сайте[ bitcoinblockhalf.com](https://www.bitcoinblockhalf.com).
 
-| ![image-1](https://lh6.googleusercontent.com/gr8fOgCVUvPE6HX-HXpcWi7Jl64fXoOlUlSBJs6cYCax97ffoudNgN-wMm-JGQIbEqTyrvLnAVcDuu6OVos9cGHUudcdPlo8e7xfUHHWschzcu8I3yX42cMkQtsKJ6NUysjOBVzb)|
+| ![image-1](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/technology/%D0%9C%D0%B0%D0%B9%D0%BD%D0%B8%D0%BD%D0%B3/image1.png?raw=true)|
 |:--:|
 | _В конце концов, около 2140 года, награда за блок полностью сойдет на нет, и майнеры будут стимулироваться только за счет сборов за подтверждение транзакций._ |
 
@@ -95,7 +95,7 @@
 
 Общее число хешей в секунду, выполняемое всеми майнерами сети Биткоин, называется скоростью хеширования.
 
-| ![image-2](https://lh4.googleusercontent.com/n5fl323S7tEIR5bqMhtNY7f4nqzWuF0eigkplGuUCfhwlhG_MV1nv1sHq6Dnv_jonU8Qt03nbdzcK7mMonGKK2dhqmJr4NQzF03vfGxyqiiPAzg7ubJjdZUoB0cgNh-1cji_C0vgv4kmSMsYOsAjLQ)|
+| ![image-2](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/technology/%D0%9C%D0%B0%D0%B9%D0%BD%D0%B8%D0%BD%D0%B3/image2.png?raw=true)|
 |:--:|
 | Время между блоками варьируется в зависимости от скорости хеширования, а также в некоторой степени подвержено воле случая 
 
@@ -107,7 +107,7 @@
 Как мы можем усложнить поиск валидных хешей, если все больше игроков присоединяется к лотерее, и упростить, если игроки покидают лотерею, чтобы стабилизировать скорость производства блоков?Напомню, что майнинг биткоинов — это лотерея, в которой мы пытаемся получить случайное число меньше целевого:  
   
   
-| ![image-3](https://lh6.googleusercontent.com/HKvnxSx7GFqDDP2MjusJrnMi0Mio3wn-fqvhjj21xSmDEPdJxn5WbrrE9wt8_ys5U98pCEJGJvdrVzRiTbEkl6agCmULmUeu-zTbmpISMvS5fXvEmV4tsDbGaQ5Z41ocGRpWEDInZIXn3VmVOsFdgw) |
+| ![image-3](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/technology/%D0%9C%D0%B0%D0%B9%D0%BD%D0%B8%D0%BD%D0%B3/image3.png?raw=true) |
 |:--:|
 | Мы пытаемся попасть в эту небольшую цель. Количество возможных результатов чрезвычайно велико, поэтому нам потребуется очень много времени, чтобы получить подходящий результат посредством случайных бросков кубика |
 
@@ -122,7 +122,7 @@
 
 Мы можем поднять целевое число до большего значения, создавая большее пространство для валидных хешей. Тем самым мы предоставляем майнерам больше шансов найти выигрышный хеш, затрачивая при этом меньше энергии на каждый найденный блок. Это называется понижением сложности.  
 
-| ![image-4](https://lh4.googleusercontent.com/pMywwNQ3M8HjmYAUEUeHQlgRaekpnM1pQCPJyfJXjaDNbmDvtdvZbqGXOJkRXJszolGCwqTqY7_PjfXzzPTv6jW7KfCFF-GpuPvl-WGAFIekjgD6cMTd-SYx04eKQeKotVe04ci2ZUGFN9n4vN2fXw) |
+| ![image-4](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/technology/%D0%9C%D0%B0%D0%B9%D0%BD%D0%B8%D0%BD%D0%B3/image4.png?raw=true) |
 |:--:|
 | Повышение значения целевого числа увеличивает размер самой цели. Это повышает вероятность попадания в нее при меньшем количестве попыток, что делает процесс дешевле |
 
@@ -135,7 +135,7 @@
 Диаграмма ниже отражает скорость хеширования в виде линии, а сложность — в виде свечей. Сложность выглядит как лестница, потому что она корректируется с шагом в 2016 блоков. Обратите внимание, что каждый раз, когда скорость хеширования поднимается выше сложности, сложность повышается, чтобы догнать скорость хеширования. Когда скорость хеширования падает, как в период с октября по декабрь 2018 года, сложность снижается. Регулировка сложности всегда отстает от скорости хеширования в течение периода в 2016 блоков (две недели).
 
 
-| ![image-4](https://lh6.googleusercontent.com/iXVKt39lT1Vu6QaGFAxIuBMaQKno52n1xciHLFnO1XU56uDd7-So_jGSRuD_dgV88ThxnvheRYISM7-qYWACT2BzV8YZj2VQUjbR2YFfksteFUVJ7BlajkIBa638Fg7goFaKaopWUlvpj6kzezXRBw)|
+| ![image-5](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/technology/%D0%9C%D0%B0%D0%B9%D0%BD%D0%B8%D0%BD%D0%B3/image5.png?raw=true)|
 |:--:|
 |Скорость и сложность хеширования |
 
