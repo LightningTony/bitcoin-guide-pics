@@ -4,7 +4,7 @@
 
 Корни Биткоина и других криптовалют лежат в этой более ранней и ориентированной на приватность платежной системе для интернета.
 
-![the genesis files how david chaums ecash spawned a cypherpunk dream](https://bitcoinmagazine.com/.image/t_share/MTc5Mjk3ODUzMTg3MTA2NDU1/the-genesis-files-how-david-chaums-ecash-spawned-a-cypherpunk-dream.jpg)
+![the genesis files how david chaums ecash spawned a cypherpunk dream](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/philosophy/genezis-fajly-ecash-devida-chauma-i-zarozhdenie-mechty-shifropankov/the-genesis-files-how-david-chaums-ecash-spawned-a-cypherpunk-dream.jpg)
 
 Ознакомиться с прологом к этой серии статей можно здесь:
 
@@ -64,7 +64,7 @@ _"Выбор между хранением информации в руках о
 
 Когда банкноты проверены, Alice Bank добавляет эквивалентное количество долларов на банковский баланс Кэрол и сообщает об этом Кэрол. После этого подтверждения Кэрол узнает, что Боб заплатил ей реальные банкноты и может спокойно отправить ему все, что он у нее приобрел.
 
-| ![ecash chart](https://lh3.googleusercontent.com/53a8_yL6wl6AmYk6h9adtB86PyHWneFGTcD8LGGgHuKQRF7k-NDWyJ1VzXpXLRMlPk9AOaYBmTXQkoZ3pjTDZ_9w5c5v6qGLTpdr9u_BNmJH2WwV0NYvwBCGmBmDX54yYvM1QFDk) |
+| ![ecash chart](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/philosophy/genezis-fajly-ecash-devida-chauma-i-zarozhdenie-mechty-shifropankov/ecash-chart.jpg) |
 |:--:|
 | _Основная идея eCash_ |
 
@@ -76,7 +76,7 @@ _"Выбор между хранением информации в руках о
 
 К 1990 году, чуть менее чем через 10 лет после окончания своих первых работ (более молодые разработчики криптовалют, такие как Мэтт Коралло, Виталик Бутерин и Олалува Осунтокун все еще не родились), Дэвид Чаум основал [DigiCash](https://en.wikipedia.org/wiki/DigiCash). Компания базировалась в Амстердаме, где Чаум жил несколько лет, и специализировалась на цифровых деньгах и платежных системах. Среди них были правительственный проект по модернизации дорожных касс (который в конечном итоге был свернут) и смарт-карты (что-то наподобие того, что сегодня мы называем аппаратными кошельками). Но флагманским проектом DigiCash стала система цифровой наличности eCash. (Система называлась eCash, а деньги в системе назывались "CyberBucks", что сравнимо с использованием заглавной буквы при упоминании _Биткоина_ как протокола и _биткоина_ в нижнем регистре для валюты.)
 
-| ![Digicash team](https://lh4.googleusercontent.com/d7gXRifRzEbE1bGJT1hP6yBOI6aWXpe6hRNdHGaR4Pg9pZe-t81ZG_tTaTEPSU8G2ah9d2nsyGphvl_x93CnlNDRYPuFMG2AzZMRMSAwRhkvbbK7NHgdfv3kJ22nhrByiC5EIoDI) |
+| ![Digicash team](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/philosophy/genezis-fajly-ecash-devida-chauma-i-zarozhdenie-mechty-shifropankov/digicash-team.png) |
 |:--:|
 | _Техническая команда в первые дни DigiCash. (Чаум на фото не присутствует) Источник:_ [_chaum.com/ecash_](https://chaum.com/ecash/) |
 
