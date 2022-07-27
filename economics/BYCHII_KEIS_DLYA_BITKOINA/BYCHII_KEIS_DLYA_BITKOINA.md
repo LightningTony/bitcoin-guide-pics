@@ -5,7 +5,7 @@
     Время чтения 27 мин
 
 Оригинал можно скачать в формате PDF:
-[the-bullish-case-for-bitcoin.pdf](%5B%5D%28https://www.21ideas.org/content/files/2022/01/the-bullish-case-for-bitcoin.pdf%20%22Download%22%29) (835 KB)
+[the-bullish-case-for-bitcoin.pdf](https://www.21ideas.org/content/files/2022/01/the-bullish-case-for-bitcoin.pdf) (835 KB)
 
 
 ## ГЕНЕЗИС И ПРИРОДА ДЕНЕГ
