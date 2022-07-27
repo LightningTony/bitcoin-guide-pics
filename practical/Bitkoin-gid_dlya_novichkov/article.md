@@ -21,7 +21,7 @@ __Способ \#1: p2p площадки__
 
 Существует множество p2p платформ для торговли биткоином, но мы хотим выделить несколько проверенных вариантов:
 
-![pic1](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/practical/Bitkoin-gid_dlya_novichkov/pictures/pic1.jpg) 
+![pic1](pictures/pic1.jpg) 
 
 [Hodl Hodl](https://www.hodlhodl.com/join/TONYB), [Local Bitcoins](https://localbitcoins.com/).
 
@@ -31,7 +31,7 @@ __Способ \#1: p2p площадки__
 
 __Способ \#2: Биткоин-банкомат__
 
-![pic2](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/practical/Bitkoin-gid_dlya_novichkov/pictures/pic2.png)
+![pic2](pictures/pic2.png)
 
 Биткоин-банкомат — еще один отличный способ получить биткоины, не предоставляя, не доверяя и не рискуя персональными данными. Это очень важный фактор. Помимо этого, сама процедура приобретения (или продажи) невероятно проста и интуитивна.
 
@@ -79,7 +79,7 @@ __Вариант \#1: Программные кошельки__
 *   Онлайн-хранение
 *   Не так безопасно, как аппаратные кошельки (легче взломать)
 
-![pic3](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/practical/Bitkoin-gid_dlya_novichkov/pictures/pic3.png)
+![pic3](pictures/pic3.png)
 
 ---
 
@@ -111,7 +111,7 @@ __Вариант \#2: Аппаратные кошельки__
 
 *   Хорошие модели стоят от $50 и выше
 
-![pic4](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/practical/Bitkoin-gid_dlya_novichkov/pictures/pic4.jpeg)
+![pic4](pictures/pic4.jpeg)
 
 Использование аппаратных кошельков требует выполнения нескольких шагов.
 
@@ -132,7 +132,7 @@ __Вариант \#2: Аппаратные кошельки__
 
 __Биткоин-шоппинг__
 
-![pic5](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/practical/Bitkoin-gid_dlya_novichkov/pictures/pic5.png)
+![pic5](pictures/pic5.png)
 
 Существуют тысячи компаний, которые принимают Биткоин за свои товары и услуги. Взгляните на [эту интерактивную карту](https://coinmap.org/view), отражающую бизнесы, принимающие биткоин.
 
@@ -146,7 +146,7 @@ __Дебетовые карты с поддержкой биткоина__
 
 __Подарочные биткоин-карты__
 
-![pic6](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/practical/Bitkoin-gid_dlya_novichkov/pictures/pic6.png)
+![pic6](pictures/pic6.png)
 
 Вы можете купить официальные подарочные карты для ваших любимых брендов, таких как Спортмастер, Ozon, Ikea и многих других, используя биткоин. Bitrefill – неплохая площадка для &nbsp;покупки подарочных карт и пополнения мобильного телефона за биткоин: <https://www.bitrefill.com/>.
 
@@ -154,7 +154,7 @@ __Подарочные биткоин-карты__
 
 __Поддержка некоммерческих проектов в биткоинах__
 
-![pic7](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/practical/Bitkoin-gid_dlya_novichkov/pictures/pic7.png)
+![pic7](pictures/pic7.png)
 
 Чувствуете себя благотворителем? Это круто, вы молодцы! Многие некоммерческие благотворительные организации принимают биткоины напрямую. Вот популярные места, где вы можете пожертвовать биткоин:
 
@@ -172,7 +172,7 @@ __Избегайте хакеров и мошенников__
 
 Первый шаг на пути к защите ваших биткоинов — это использование безопасного компьютера и сети. Это означает, что нужно отказаться от общественного компьютера в лобби отеля, а также от публичного WiFi в кафе (или, по крайней мере, [всегда использовать VPN](https://book.cyberyozh.com/ru/vpn---fundament-vashej-anonimnosti-i-bezopasnosti-v-seti/)). Дома используйте только свое личное устройство и собственное подключение к интернету. Также не забывайте своевременно обновлять программное обеспечение.
 
-![pic8](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/practical/Bitkoin-gid_dlya_novichkov/pictures/pic8.png)
+![pic8](pictures/pic8.png)
 
 Далее, избегайте поддельных веб-сайтов. Тщательно проверяйте в браузере URL-адрес биткоин-бирж и сервисов, которые хотите посетить. Всегда перепроверяйте адрес и не нажимайте на случайные ссылки в интернете. Еще лучшим решением будет добавить все часто используемые веб-страницы в закладки и пользоваться ими. Скачивайте мобильные приложения только с официальных сайтов проектов — в Play Store туча фейковых приложений, единственная цель которых — увести ваши средства.
 
