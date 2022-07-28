@@ -22,11 +22,11 @@ BlueWallet может похвастаться множеством функци
 
 Архитектура с несколькими кошельками обеспечивает максимальную гибкость. BlueWallet стремится поддерживать самые высокие стандарты кошельков. Помимо создания биткоин- и Lightning-кошельков, Watch-only кошельков и мультисиг-хранилищ, BlueWallet может импортировать большинство стандартов кошельков, включая кошельки Electrum и Bread.
 
-![pic1](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/practical/Lightning-koshelek_BlueWallet/pictures/pic1.png)
+![pic1](pictures/pic1.png)
 
-![pic2](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/practical/Lightning-koshelek_BlueWallet/pictures/pic2.png)
+![pic2](pictures/pic2.png)
 
-![pic3](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/practical/Lightning-koshelek_BlueWallet/pictures/pic3.png)
+![pic3](pictures/pic3.png)
 
 ---
 
@@ -34,7 +34,7 @@ BlueWallet может похвастаться множеством функци
 
 Lightning-кошельки BlueWallet работают “из коробки”. Вы можете использовать кошельки Lightning, доверяя хранение и управление средствами BlueWallet или подключить кошелек к собственной ноде. BlueWallet позволяет беспрепятственно использовать сеть Lightning без необходимости открывать каналы, быть онлайн или управлять и обслуживать биткоин-ноду, тем не менее, запуск и использование собственной ноды несет с собой ряд бенефитов. Мы обязательно поговорим об этом в будущих материалах, а пока продолжим.
 
-![pic4](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/practical/Lightning-koshelek_BlueWallet/pictures/pic4.png)
+![pic4](pictures/pic4.png)
 
 _Возможности:_
 
@@ -45,7 +45,7 @@ _Возможности:_
 *   marketplace (рынок приложений): доступ к совместимым с Lightning сервисам, возможность участия в киберэкономике второго слоя;
 *   браузер: прямой доступ к вашим любимым приложениям, поддерживающим Lightning, из BlueWallet-браузера.
 
-| ![pic5](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/practical/Lightning-koshelek_BlueWallet/pictures/pic5.png) |
+| ![pic5](pictures/pic5.png) |
 |:--:|
 | _Первые шаги пользователя Lightning_ |
 
@@ -53,7 +53,7 @@ _Возможности:_
 
 BlueWallet предоставляет возможность оценки комиссий, предлагая выбор цели подтверждения транзакции через 10 минут, 3 часа или 1 день. Кошелек также рассчитывает в реальном времени, сколько будет потрачено в качестве комиссионных.
 
-![pic6](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/practical/Lightning-koshelek_BlueWallet/pictures/pic6.png)
+![pic6](pictures/pic6.png)
 
 Помимо этого есть возможность отменить отправленные транзакции, воспользоваться функциями "Сменить комиссию" (RBF) или "Ребенок платит за родителя" (CPFP).
 
@@ -65,7 +65,7 @@ BlueWallet предоставляет возможность оценки ком
 
 Кошельки с функцией Watch-only (только наблюдение) позволяют следить за своим холодным хранилищем или бумажным кошельком, не прикасаясь к приватному ключу. С легкостью импортируйте свой публичный адрес, xpub или ypub и следите за ним из приложения, не перемещая средств.
 
-![pic7](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/practical/Lightning-koshelek_BlueWallet/pictures/pic7.png)
+![pic7](pictures/pic7.png)
 
 _Возможности:_
 
@@ -76,7 +76,7 @@ _Возможности:_
 *   анимированные QR-коды: для улучшения опыта при совершении крупных транзакций;
 *   аппаратные кошельки: поддержка аппаратных кошельков или вашего решения для холодного хранения.
 
-| ![pic8](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/practical/Lightning-koshelek_BlueWallet/pictures/pic8.png) |
+| ![pic8](pictures/pic8.png) |
 |:--:|
 | _Первые шаги пользователя Lightning_ |
 
@@ -86,7 +86,7 @@ _Возможности:_
 
 ### Мультисиг-хранилище
 
-![pic9](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/practical/Lightning-koshelek_BlueWallet/pictures/pic9.png)
+![pic9](pictures/pic9.png)
 
 [Мультисиг](https://www.21ideas.org/tag/multisig/) – самая безопасная схема хранения биткоинов. Мультисиг напоминает хранилище, где для расходования монет требуется несколько ключей. Рекомендуется для холодного хранения и хранения больших сумм.
 
@@ -109,25 +109,25 @@ _Демо-видео мультисиг-тракнзакции с BlueWallet:_
 
 ### Возможность отрицания
 
-![pic10](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/practical/Lightning-koshelek_BlueWallet/pictures/pic10.png)
+![pic10](pictures/pic10.png)
 
 Функция, повышающая вашу личную безопасность. BlueWallet позволяет вам задать приложению дополнительный пароль, который будет расшифровывать определенный кошелек-обманку. Эта функция будет полезна в любой ситуации, где вы можете оказаться вынуждены раскрыть свои ключи или когда вы просто не хотите показывать свой настоящий кошелек.
 
 ### Восстановление кошельков
 
-![pic11](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/practical/Lightning-koshelek_BlueWallet/pictures/pic11.png)
+![pic11](pictures/pic11.png)
 
 “Волшебная форма", в которую вы можете импортировать все, что угодно. Она сделает все возможное, чтобы понять формат и импортировать ваш кошелек в приложение BlueWallet.
 
 ### Совмещение (пакетирование) транзакций
 
-![pic12](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/practical/Lightning-koshelek_BlueWallet/pictures/pic12.png)
+![pic12](pictures/pic12.png)
 
 Отправляйте несколько транзакций одним пакетом. Это полезно, если вам нужно отправить несколько транзакций и вы хотите сэкономить на комиссиях. Все ваши транзакции будут объединены и вы оплатите комиссию лишь однажды, что сэкономит вам саты.
 
 ### Виджет для мобильных устройств
 
-| ![pic13](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/practical/Lightning-koshelek_BlueWallet/pictures/pic13.png) |
+| ![pic13](pictures/pic13.png) |
 |:--:|
 | _Добавьте виджет BlueWallet на дисплей своего iPhone или iPad_ |
 

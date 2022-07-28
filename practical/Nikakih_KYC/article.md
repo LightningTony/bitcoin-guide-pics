@@ -67,19 +67,19 @@ Coinjoin может ввести следящих в заблуждение, с�
 
 *   [HODL HODL](https://hodlhodl.com/join/TONYB) (подробный гид по использованию площадки можно найти [здесь](https://www.21ideas.org/practical-hodl-hodl-guide/)).
 
-![pic1](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/practical/Nikakih_KYC/pictures/pic1.png) 
+![pic1](pictures/pic1.png) 
 
 *   [Bisq](https://bisq.network/)
 
-![pic2](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/practical/Nikakih_KYC/pictures/pic2.png) 
+![pic2](pictures/pic2.png) 
 
 *   [LocalCryptos](https://localcryptos.com/)
 
-![pic3](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/practical/Nikakih_KYC/pictures/pic3.png) 
+![pic3](pictures/pic3.png) 
 
 *   [Local Coin Swap](https://localcoinswap.com/)
 
-![pic4](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/practical/Nikakih_KYC/pictures/pic4.png) 
+![pic4](pictures/pic4.png) 
 
 Больше опций вы можете найти на [_KYC? Not me!_](https://kycnot.me/)
 
@@ -144,7 +144,7 @@ Coinjoin может ввести следящих в заблуждение, с�
 
 ## Никаких KYC!
 
-![pic5](https://github.com/LightningTony/bitcoin-guide-pics/blob/main/practical/Nikakih_KYC/pictures/pic5.png) 
+![pic5](pictures/pic5.png) 
 
 ---
 
