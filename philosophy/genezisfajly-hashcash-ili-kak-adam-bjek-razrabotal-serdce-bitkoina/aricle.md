@@ -110,6 +110,5 @@ Hashcash не стал первой системой электронных де
 
 ---
 
-Перевод статьи Аарона Ван Вирдума. Оригинал представлен в журнале Bitcoin Magazine: 
+[Перевод статьи Аарона Ван Вирдума. Оригинал представлен в журнале Bitcoin Magazine](https://bitcoinmagazine.com/technical/genesis-files-hashcash-or-how-adam-back-designed-bitcoins-motor-block)
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://bitcoinmagazine.com/technical/genesis-files-hashcash-or-how-adam-back-designed-bitcoins-motor-block"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The Genesis Files: Hashcash or How Adam Back Designed Bitcoin’s Motor Block</div><div class="kg-bookmark-description">A look at how the technology underlying Hashcash — proof of work — would shape research into digital money for more than a decade to come.</div><div class="kg-bookmark-metadata"><img alt="" class="kg-bookmark-icon" src="https://bitcoinmagazine.com/site/images/apple-touch-icon-114x114-precomposed.png?v=2022-04-19-205128-ee957db-025889"/><span class="kg-bookmark-author">Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides</span><span class="kg-bookmark-publisher">Aaron van Wirdum</span></div></div><div class="kg-bookmark-thumbnail"><img alt="" src="https://bitcoinmagazine.com/.image/t_share/MTc5Mjk3ODUzOTkwMTg0NjQz/the-genesis-files-hashcash-or-how-adam-back-designed-bitcoins-motor-block.jpg"/></div></a></figure>
